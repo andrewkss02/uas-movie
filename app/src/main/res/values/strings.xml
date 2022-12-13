@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="texthello">Hallo Dunia</string>
+    <string name="textButton">Ganti Text Random</string>
+
+    <string name="pindahbutton">Pindah</string>
+    <string name="api_key">2c4b5c9b12e7a1db6242337110576436</string>
+</resources>
